@@ -289,11 +289,10 @@
 
 .footer__menu-list {
   list-style-type: none;
-  
 }
 
 .footer__menu-list-item {
-  line-height: calc(21.13/18*100%);
+  line-height: calc(21.13 / 18 * 100%);
 }
 
 .footer__social-list {
